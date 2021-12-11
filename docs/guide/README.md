@@ -4,4 +4,4 @@
 
 This header won't appear in the sidebar table of contents.
 
-## Why Perfanalytics
+## Quick Start
